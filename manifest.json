@@ -1,0 +1,17 @@
+{
+    "name" : "Progressive Web Application",
+    "short_name" : "MAKAS",
+    "start_url" : "index.html",
+    "display" : "standalone",
+    "background" : "black",
+    "scope" : ". ",
+    "id" : "/index.html",
+    "description" : "This is Portfolio of Aazen",
+    "icons" : [
+        {
+            "src" : "images/1.png",
+            "sizes" : "500X500",
+            "type" : "image/png"
+        }
+    ]
+}
